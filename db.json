@@ -1,0 +1,27 @@
+
+{
+  "appversion": [
+    {
+      "major": "1",
+      "minor": "0",
+      "subminor": "0"
+    }
+  ],
+  
+  "tfwords": [
+    {
+      "totalphrases": "844",
+	  "day": "16",
+      "month": "5",
+	  "year": "2019"
+    }
+  ],
+ "images": [
+    {
+      "ptotal": "90",
+	  "day": "17",
+      "month": "5",
+	  "year": "2019"
+    }
+  ] 
+}
